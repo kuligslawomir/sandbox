@@ -5,4 +5,7 @@ package com.company;
  */
 public class Test3 {
 
+    @Override public String toString() {
+        return "Test3{on master!}";
+    }
 }
